@@ -3,7 +3,7 @@
 # *OPTIONAL* Comment to reply with
 # Can be either a string :
 requestInfoReplyComment: >
-  We would appreciate it if you could provide us with more info about this issue/pr!
+  如果可能的話，請依下面提示，盡可能提供更詳細以利分析且能確保後續作業的速度。We would appreciate it if you could provide us with more info about this issue/pr!
 
 # Or an array:
 # requestInfoReplyComment:
