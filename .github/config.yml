@@ -5,12 +5,6 @@
 requestInfoReplyComment: >
   如果可能的話，請依下面提示，盡可能提供更詳細以利分析且能確保後續作業的速度。We would appreciate it if you could provide us with more info about this issue/pr!
 
-# Or an array:
-# requestInfoReplyComment:
-#  - Ah no! young blade! That was a trifle short!
-#  - Tell me more !
-#  - I am sure you can be more effusive
-
 
 # *OPTIONAL* default titles to check against for lack of descriptiveness
 # MUST BE ALL LOWERCASE
